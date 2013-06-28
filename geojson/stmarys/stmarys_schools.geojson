@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "SCHOOLS_": 6.0, "SCHOOLS_ID": 6.0, "NAME": "CHOPTICON HIGH SCHOOL", "TYPE": "H", "ZONING": "RPD", "Type_II": "High School" }, "geometry": { "type": "Point", "coordinates": [ -76.707135493319342, 38.360080264109186 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "SCHOOLS_": 16.0, "SCHOOLS_ID": 16.0, "NAME": "LEONARDTOWN HIGH SCHOOL", "TYPE": "H", "ZONING": "RPD", "Type_II": "High School" }, "geometry": { "type": "Point", "coordinates": [ -76.611095393444742, 38.271393288399132 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "SCHOOLS_": 29.0, "SCHOOLS_ID": 29.0, "NAME": "GREAT MILLS HIGH SCHOOL", "TYPE": "H", "ZONING": "RH", "Type_II": "High School" }, "geometry": { "type": "Point", "coordinates": [ -76.489283204789601, 38.247439157452391 ] } }
+
+]
+}
